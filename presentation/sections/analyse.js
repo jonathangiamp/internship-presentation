@@ -1,8 +1,7 @@
 import React from "react";
 import {
   Layout, Slide, Text, SlideSet, Heading,
-  Appear, List, ListItem/*, Table, TableRow, TableHeaderItem,
-  TableItem, TableBody, TableHeader, Fill, S*/
+  Appear, List, ListItem
 } from "spectacle";
 import { analyse as data } from "../data/sections";
 import { black, grey, primary } from "../data/colors";
